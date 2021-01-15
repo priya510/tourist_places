@@ -13,6 +13,7 @@
 - For image Slider is also added on header page.This is a Responsive website.<br>
 - Different modules is also added like login page ,singup,feedback and help which are in process.
 <br>
+
 > Software/Editor used : Notepad++ <br>
 
->> Languages:Html,Css,bootstrap and javascript
+  - Languages:Html,Css,bootstrap and javascript
