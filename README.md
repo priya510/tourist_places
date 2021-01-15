@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/priya510/tourist_places)
 ![](https://img.shields.io/badge/Status-Complete-green.svg) <br><br>
 
-<img align='center' alt='Demo' width='400px'  height='300px' src="https://github.com/Kushal997-das/Basic-Banking-system/blob/main/docs/gif%20(2).gif"/> <br> <br>
+<img align='center' alt='Demo' width='400px'  height='300px' src="https://github.com/Kushal997-das/tourist_places/blob/main/docs/kush_docs.gif"/> <br> <br>
 
 - This is a tourist places website which is designed using Html,Css,bootstrap and javascript .<br>
 - In this website various tourist places in India are mentioned like GOA,MUMBAI,SHIMLA,DARJEELING,COORG,DELHI,JAIPUR etc.<br>
@@ -13,5 +13,6 @@
 - For image Slider is also added on header page.This is a Responsive website.<br>
 - Different modules is also added like login page ,singup,feedback and help which are in process.
 <br>
-> Software/Editor used : Notepad++
+> Software/Editor used : Notepad++ <br>
+
 >> Languages:Html,Css,bootstrap and javascript
