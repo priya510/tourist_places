@@ -1,4 +1,4 @@
-# tourist_places Frontend Design
+ Frontend Design : Tourist Places Website
 
 This is a tourist places website which is designed using Html,Css,bootstrap and javascript .
 In this website various tourist places in India are mentioned like GOA,MUMBAI,SHIMLA,DARJEELING,COORG,DELHI,JAIPUR etc.
